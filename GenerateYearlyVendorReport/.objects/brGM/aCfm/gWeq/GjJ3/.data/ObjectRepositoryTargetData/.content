@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rXgWvcvyh0yb7yGA7afBRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="a9efb5ab-324b-44b8-8c38-69428ea8dde5" CvElementArea="458, 516, 206, 50" CvTextArea="526, 532, 93, 16" CvTextArgument="Work Items" CvType="Button" DesignTimeRectangle="461, 518, 200, 46" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='                          Work Items' parentid='dashmenu' tag='BUTTON' /&gt;" Guid="148a50d3-b8aa-4342-b35c-64793c1e77b2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="0430ed0f4f4a2475925c5f872801e302.png" xmlns="">0b9NmnshCckqvOhixmbrmrw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA Workflow - Main.xaml - UiPath Studio",
+  "Type": "App",
+  "Id": "brGMGr0bKUCneTtvLMATFg",
+  "Reference": "49igbCl1WkCOuJ9FoNm-sA/brGMGr0bKUCneTtvLMATFg",
+  "Created": "2025-06-01T09:50:04.913578Z",
+  "Updated": "2025-06-01T09:50:04.913578Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

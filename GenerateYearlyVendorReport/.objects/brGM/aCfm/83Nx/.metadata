@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA Workflow - Main.xaml - UiPath Stud",
+  "Type": "Screen",
+  "Id": "83NxIOZ9jUynloia1A9nuQ",
+  "Reference": "49igbCl1WkCOuJ9FoNm-sA/83NxIOZ9jUynloia1A9nuQ",
+  "ParentRef": "49igbCl1WkCOuJ9FoNm-sA/aCfmRa_LOkSjap9AbdV7Zw",
+  "Created": "2025-06-01T09:50:05.1132112Z",
+  "Updated": "2025-06-01T09:50:05.1132112Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
